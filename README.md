@@ -16,7 +16,7 @@ We learned the forward kinematics and inverse kinematics solutions for robots
 
 The following video shows the simulation of a robotic arm gripping blocks and placing them into a specific shape after a specific motion.
 
-https://github.com/liukan6/Robotics_and_Practice/blob/main/image/README/Group2_demo.mp4
+![demo](https://github.com/liukan6/Robotics_and_Practice/blob/main/image/README/Group2_demo.mp4)
 
 ### space station robot arm
 
