@@ -16,8 +16,7 @@ We learned the forward kinematics and inverse kinematics solutions for robots
 
 The following video shows the simulation of a robotic arm gripping blocks and placing them into a specific shape after a specific motion.
 
-<video src="image/README/Group2_demo.mp4" autoplay="true" controls="controls" width="800" height="600">
-</video>
+![demo](image/README/Group2_demo.gif)
 
 ### space station robot arm
 
@@ -25,14 +24,11 @@ The following video shows the simulation of a robotic arm gripping blocks and pl
 
 This is the final task as the end of footed robot part, we should first calculate the inverse kinematics, then simulate the motion in CoppeliaSim which is really hard because of the details.
 
-<video src="image/README/space_station_robot_arm_simulation.mp4" autoplay="true" controls="controls" width="800" height="600">
-</video>
-
+![space_station_robot_arm_simulation](image/README/space_station_robot_arm_simulation.gif "space_station_robot_arm_simulation")
 
 Considering the motion is too complex, we are only required to build the real robot and make it move a step.
 
-<video src="image/README/space_station_robot_arm.mp4" autoplay="true" controls="controls" width="800" height="600">
-</video>
+![space_station_robot_arm.](image/README/space_station_robot_arm.gif "space_station_robot_arm")
 
 ## Wheeled Robot
 
@@ -40,13 +36,10 @@ We first installed Ubuntu, ROS2, Nav2, and configured Nav2, then completed Gazeb
 
 The following video shows we use the embedded navigation algorithm of Global Planner.
 
-<video src="image/README/embedded_algorithm.mp4" autoplay="true" controls="controls" width="800" height="600">
-</video>
+![embedded_algorithm](image/README/embedded_algorithm.gif "embedded_algorithm")
 
 ### RRT* Algorithm
 
 The following video shows we use the RRT* algorithm written by ourselves.
 
-
-<video src="image/README/RRT_algorithm.mp4" autoplay="true" controls="controls" width="800" height="600">
-</video>
+![RRT_algorithm](image/README/RRT_algorithm.gif "RRT*_algorithm")
