@@ -1,0 +1,52 @@
+[0.502s] Invoking command in '/home/aaa/Robotics/ros2_ws/src': PYTHONPATH=/home/aaa/Robotics/ros2_ws/build/pubsub_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pubsub_package build --build-base /home/aaa/Robotics/ros2_ws/build/pubsub_package/build install --record /home/aaa/Robotics/ros2_ws/build/pubsub_package/install.log --single-version-externally-managed install_data
+[0.633s] running egg_info
+[0.633s] creating ../build/pubsub_package/pubsub_package.egg-info
+[0.633s] writing ../build/pubsub_package/pubsub_package.egg-info/PKG-INFO
+[0.633s] writing dependency_links to ../build/pubsub_package/pubsub_package.egg-info/dependency_links.txt
+[0.633s] writing entry points to ../build/pubsub_package/pubsub_package.egg-info/entry_points.txt
+[0.633s] writing requirements to ../build/pubsub_package/pubsub_package.egg-info/requires.txt
+[0.633s] writing top-level names to ../build/pubsub_package/pubsub_package.egg-info/top_level.txt
+[0.633s] writing manifest file '../build/pubsub_package/pubsub_package.egg-info/SOURCES.txt'
+[0.634s] reading manifest file '../build/pubsub_package/pubsub_package.egg-info/SOURCES.txt'
+[0.634s] writing manifest file '../build/pubsub_package/pubsub_package.egg-info/SOURCES.txt'
+[0.635s] running build
+[0.635s] running build_py
+[0.635s] creating /home/aaa/Robotics/ros2_ws/build/pubsub_package/build
+[0.635s] creating /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib
+[0.635s] creating /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package
+[0.635s] copying pubsub_package/global.py -> /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package
+[0.635s] copying pubsub_package/__init__.py -> /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package
+[0.635s] copying pubsub_package/local.py -> /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package
+[0.635s] creating /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/planner
+[0.635s] copying pubsub_package/planner/rrt.py -> /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/planner
+[0.635s] copying pubsub_package/planner/__init__.py -> /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/planner
+[0.635s] copying pubsub_package/planner/dwa.py -> /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/planner
+[0.644s] running install
+[0.644s] running install_lib
+[0.645s] creating /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package
+[0.645s] copying /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/global.py -> /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package
+[0.645s] copying /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/__init__.py -> /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package
+[0.645s] copying /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/local.py -> /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package
+[0.645s] creating /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/planner
+[0.645s] copying /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/planner/rrt.py -> /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/planner
+[0.645s] copying /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/planner/__init__.py -> /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/planner
+[0.645s] copying /home/aaa/Robotics/ros2_ws/build/pubsub_package/build/lib/pubsub_package/planner/dwa.py -> /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/planner
+[0.645s] byte-compiling /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/global.py to global.cpython-310.pyc
+[0.646s] byte-compiling /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/__init__.py to __init__.cpython-310.pyc
+[0.646s] byte-compiling /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/local.py to local.cpython-310.pyc
+[0.647s] byte-compiling /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/planner/rrt.py to rrt.cpython-310.pyc
+[0.648s] byte-compiling /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/planner/__init__.py to __init__.cpython-310.pyc
+[0.648s] byte-compiling /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package/planner/dwa.py to dwa.cpython-310.pyc
+[0.648s] running install_data
+[0.648s] creating /home/aaa/Robotics/ros2_ws/install/pubsub_package/share/ament_index
+[0.648s] creating /home/aaa/Robotics/ros2_ws/install/pubsub_package/share/ament_index/resource_index
+[0.648s] creating /home/aaa/Robotics/ros2_ws/install/pubsub_package/share/ament_index/resource_index/packages
+[0.648s] copying resource/pubsub_package -> /home/aaa/Robotics/ros2_ws/install/pubsub_package/share/ament_index/resource_index/packages
+[0.648s] copying package.xml -> /home/aaa/Robotics/ros2_ws/install/pubsub_package/share/pubsub_package
+[0.648s] running install_egg_info
+[0.650s] Copying ../build/pubsub_package/pubsub_package.egg-info to /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages/pubsub_package-0.0.0-py3.10.egg-info
+[0.650s] running install_scripts
+[0.664s] Installing global_pub script to /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/pubsub_package
+[0.665s] Installing local_pub script to /home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/pubsub_package
+[0.665s] writing list of installed files to '/home/aaa/Robotics/ros2_ws/build/pubsub_package/install.log'
+[0.679s] Invoked command in '/home/aaa/Robotics/ros2_ws/src' returned '0': PYTHONPATH=/home/aaa/Robotics/ros2_ws/build/pubsub_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aaa/Robotics/ros2_ws/install/pubsub_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/pubsub_package build --build-base /home/aaa/Robotics/ros2_ws/build/pubsub_package/build install --record /home/aaa/Robotics/ros2_ws/build/pubsub_package/install.log --single-version-externally-managed install_data
